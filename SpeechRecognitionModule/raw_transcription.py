@@ -1,7 +1,6 @@
 """
 Модуль содержит в себе класс, для работы с этапом распознавания аудио в чанках.
 """
-import os
 import time
 from typing import List
 

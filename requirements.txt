@@ -1,0 +1,6 @@
+nemo==4.4.1
+nemo_toolkit==1.14.0
+pydub==0.25.1
+torch==1.13.1+cpu
+tqdm==4.64.1
+transformers==4.21.2
